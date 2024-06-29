@@ -1,6 +1,5 @@
 # CryptChat
-A Desktop Application made using Tkinter framework in Python for Text Chatting between indivisuals or groups which is end to end encrypted using symmetric cyrptography algorithms.
-The API has been developed using Flask and the client side has been developed using Tkinter
+A desktop application using the Tkinter framework in Python for text-based communication between individuals or groups. The application ensures end-to-end encryption using symmetric cryptography algorithms to secure messages. The backend API is built with Flask, while the client-side interface is developed with Tkinter, facilitating a seamless and secure chatting experience.
 
 # Preview
 
